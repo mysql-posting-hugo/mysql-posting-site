@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB on SQL posting-site</title>
+    <link>https://example.org/tags/db/</link>
+    <description>Recent content in DB on SQL posting-site</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL First</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;-mysql-이란&#34;&gt;🤓 &lt;strong&gt;MySQL 이란&lt;/strong&gt; &lt;a href=&#34;#-mysql-%ec%9d%b4%eb%9e%80&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;MySQL은 1995년 오라클이 개발한 데이터베이스 관리 시스템으로 오픈 소스 관계형 데이터베이스 관리 시스템(RDBMS)입니다.&#xA;주로 데이터 저장 및 관리에 매우 효과적인 언어입니다. 특징과 용도는 다음과 같습니다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;특징&lt;/strong&gt;: 빠른 성능, 안전성, 다양한 OS 지원, SQL 표준 준수&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;용도&lt;/strong&gt;: 웹 애플리케이션, 데이터 분석, 모바일 애플리케이션 DB, 게임 개발 등&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;-설치-및-세팅법windows-기준&#34;&gt;🤓 &lt;strong&gt;설치 및 세팅법(Windows 기준)&lt;/strong&gt; &lt;a href=&#34;#-%ec%84%a4%ec%b9%98-%eb%b0%8f-%ec%84%b8%ed%8c%85%eb%b2%95windows-%ea%b8%b0%ec%a4%80&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://dev.mysql.com/downloads/installer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MySQL 공식 사이트&lt;/a&gt;에서 다운&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;설치 시 &lt;strong&gt;MySQL Server&lt;/strong&gt;와 &lt;strong&gt;MySQL Workbench&lt;/strong&gt; 선택&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;루트 및 계정 비밀번호 설정&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;설치 중 데이터베이스 설정 가능&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
