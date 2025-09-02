@@ -1,0 +1,25 @@
+# Hugo 임시 파일
+/resources/_gen/
+hugo_stats.json
+.cache/
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# IDE / 에디터 관련
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 배포용 public 폴더 제외 (GitHub Pages 배포용 제외 시)
+# public/ 
+
+# Node.js 관련 (테마에 npm 사용 시)
+node_modules/
+package-lock.json
+yarn.lock
+
+# 로그 파일
+*.log
