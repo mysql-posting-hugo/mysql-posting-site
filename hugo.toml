@@ -1,0 +1,14 @@
+baseURL = "https://example.org/"
+languageCode = "ko-kr"
+title = "SQL posting-site"
+theme = "mini"
+
+[params.social]
+github = "https://github.com/Koras02"
+twitter = "#"
+linkedin = "#"
+
+[params]
+copyright = "© 2025 K"
+showPowerBy = true
+Author = "K"

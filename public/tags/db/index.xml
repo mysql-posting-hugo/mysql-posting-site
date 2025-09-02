@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DB on SQL posting-site</title>
+    <link>http://localhost:1313/tags/db/</link>
+    <description>Recent content in DB on SQL posting-site</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL First</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;1-mysql-이란&#34;&gt;1. MySQL 이란 &lt;a href=&#34;#1-mysql-%ec%9d%b4%eb%9e%80&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
